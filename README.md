@@ -84,15 +84,6 @@ quit
 ```
 To avoid unexpected killed threads and orphaned processes, **do not use** this command in between client requests. System may experience a lag and you might have to hard-reboot. *You have been warned.*
 
-### Some flex :wink:
-After login on Server:
-![Server Login](Assets/server_login.png)
-
-After login on a Client:
-![Client Login](Assets/client_login.png)
-
-A 4 client request session to showcase Multithreading:
-![multi_thread_req](Assets/request1.png)
 
 ### Dataset
 
