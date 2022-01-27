@@ -1,6 +1,6 @@
-## DoIKnowYou
+## WhoAMI
 
-DoIKnowYou (DIKY) is an implementation of a Face Recognition framework using Haar Cascade classifiers inspired from the CVPR 2001 paper by Viola-Jones that can handle multiple client verification requests on a server using Multithreading and Synchronisation Policies.
+WhoAMI (WAI) is an implementation of a Face Recognition framework using Haar Cascade classifiers inspired from the CVPR 2001 paper by Viola-Jones that can handle multiple client verification requests on a server using Multithreading and Synchronisation Policies.
 
 Dependencies
 ------------
